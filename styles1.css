@@ -1,0 +1,57 @@
+
+body{
+    background-color: black;
+    background-image: url("./pngtree-aesthetic-workspace-with-contemporary-shelves-dark-wooden-desk-trendy-laptop-and-indoor-lampgenerated-by-ai-photo-image_51559090.jpg");
+}
+#firstBox{
+    border: 1px solid white;
+    width: 70%;
+    height: 425px;
+    margin: 50px 8px 8px 200px;
+    background-image: url("./istockphoto-1094918638-1024x1024.jpg");
+    
+}
+
+#secondBox{
+    text-align: center;
+    border: 1px solid white;
+    width:50% ;
+    height: 425px;
+    
+    
+}
+h4{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px 10px 10px 10px;
+    /* background-color: black; */
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    /* text-shadow: 1px 1px 2px rgb(182, 178, 178); */
+    /* border: 1px solid white;
+    border-radius: 20px; */
+
+}
+#inp1, #inp2, #inp3, #inp4, #inp5, #inp6{
+    border: 0.5px solid gray;
+} 
+#bluebutton{
+    border: 1px solid rgb(78, 78, 212);
+    background-color: rgb(78, 78, 212);
+    width: 40%;
+    height: 24px;
+    border-radius: 20px;
+    font-family:'Times New Roman', Times, serif;
+    /* margin: 20px 10px 10px 85px;  */
+    
+}
+#button2{
+    background-color: rgb(78, 78, 212);
+    margin: 1px 10px 10px 400px;
+    height: 24px;
+    width: 67px;
+}
+
